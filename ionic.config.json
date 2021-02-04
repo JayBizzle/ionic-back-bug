@@ -1,0 +1,7 @@
+{
+  "name": "ionic-back-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
